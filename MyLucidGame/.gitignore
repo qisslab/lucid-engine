@@ -1,0 +1,13 @@
+# Builds
+builds/
+target/
+
+# Content temps
+Content/*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+Telemetry/*.log
